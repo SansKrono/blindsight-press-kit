@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Head over to our press kit
+          <a href="/presskit" type="button" color="primary">Press Kit</a>
         </p>
       </main>
 
