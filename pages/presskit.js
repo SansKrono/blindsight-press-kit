@@ -19,20 +19,20 @@ export default function Home() {
           height: '100%',
         }}>
           <Image 
-            src="/tunnel.webp"
-            alt="Tunnel" 
+            src="/discontent.webp"
+            alt="Discontent" 
             layout="fill"
             objectFit="cover"
             />
         </div>
-        <Header title="Welcome to Blindsight" />
-        <Button href="/presskit" variant="contained" style={{
+        <Header title="Nothing to see here yet.. sorry." />
+        <Button href="/" variant="contained" style={{
           backgroundColor: 'purple',
           color: 'white',
           textShadow: '0 0 10px black',
           zIndex: 1,
           position: 'relative',
-        }}>View our Press Kit</Button>
+        }}>Back to home</Button>
       </main>
     </div>
   )
