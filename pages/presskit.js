@@ -19,7 +19,7 @@ export default function Home() {
           height: '100%',
         }}>
           <Image 
-            src="/discontent.webp"
+            src="/images/discontent-shot.webp"
             alt="Discontent" 
             layout="fill"
             objectFit="cover"

@@ -19,7 +19,7 @@ export default function Home() {
           height: '100%',
         }}>
           <Image 
-            src="/tunnel.webp"
+            src="/images/tunnel-shot.webp"
             alt="Tunnel" 
             layout="fill"
             objectFit="cover"
