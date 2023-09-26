@@ -17,6 +17,7 @@ export default function Home() {
           position: 'fixed',
           width: '100%',
           height: '100%',
+          filter: 'grayscale(100%)',
         }}>
           <Image 
             src="/images/discontent-shot.webp"
